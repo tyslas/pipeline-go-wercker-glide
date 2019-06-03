@@ -1,0 +1,4 @@
+package: github.com/tyslas/pipeline
+import:
+- package: github.com/codegangsta/negroni
+  version: v1.0.0
