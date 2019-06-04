@@ -1,0 +1,5 @@
+---
+applications:
+- name: pipeline-go-wercker-glide
+  memory: 8M
+  host: cng-hello-pipeline
