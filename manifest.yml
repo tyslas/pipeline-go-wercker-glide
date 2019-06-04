@@ -1,5 +1,5 @@
 ---
 applications:
-- name: pipeline-go-wercker-glide
+- name: wercker-go-pipeline
   memory: 8M
-  host: cng-hello-pipeline
+  host: tito-cloud
