@@ -24,6 +24,6 @@ func main() {
 }
 
 func hello(res http.ResponseWriter, req *http.Request) {
-	fmt.Fprintln(res, "hello go!\nhello cloud!\n你好云 !\nmy first c/i pipeline!")
+	fmt.Fprintln(res, "v2 - hello cloud!\n你好云 !\nmy first c/i pipeline!")
 }
 
